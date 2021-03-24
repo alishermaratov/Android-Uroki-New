@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>Приложения 1</item>
+        <item>Приложения 2</item>
+        <item>Приложения 3</item>
+        <item>Приложения 4</item>
+
+    </string-array>
+    <string-array name="fff_array">
+        <item>App 1</item>
+        <item>App 2</item>
+        <item>App 3</item>
+        <item>App 4</item>
+
+    </string-array>
+    <string-array name="ccc_array">
+        <item>Slide 1</item>
+        <item>Slide 2</item>
+        <item>Slide 3</item>
+        <item>Slide 4</item>
+
+    </string-array>
+    <string-array name="ggg_array">
+        <item>Share 1</item>
+        <item>Share 2</item>
+        <item>Share 3</item>
+        <item>Share 4</item>
+
+    </string-array>
+    <string-array name="grt_array">
+        <item>Send 1</item>
+        <item>Send 2</item>
+        <item>Send 3</item>
+        <item>Send 4</item>
+        <item>Send 5</item>
+
+    </string-array>
+</resources>

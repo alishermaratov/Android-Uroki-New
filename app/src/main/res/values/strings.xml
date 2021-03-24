@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name" translatable="false">Alish</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Справочник рыбака</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home" translatable="false">Домой</string>
+    <string name="menu_gallery" translatable="false">Галерея</string>
+    <string name="menu_slideshow" translatable="false">Слайды</string>
+    <string name="menu_share" translatable="false">Share</string>
+    <string name="menu_send" translatable="false">Send</string>
+
+    <string name="menu_title" translatable="false">Разное</string>
+    <string name="text_fish" translatable="false">Обыкнове́нный сом, или европе́йский сом (лат. Silurus glanis) — крупная пресноводная бесчешуйчатая рыба семейства сомовых (Siluridae).
+
+Длина тела до 5 м, масса до 400 кг (по историческим данным)[3]. Л. П. Сабанеев приводит сведения Кесслера о поимке сомов массой более 300 кг в XIX веке, в Днепре, Днестре и Одере[4]. Официально зарегистрирован пойманный сом массой 306 кг, длиной более 3 м и возрастом около 80 лет[5]. Сейчас сомы массой выше 100 кг встречаются крайне редко, тем не менее зарегистрированы случаи поимки сомов длиной более 2,5 м и массой около 150 кг[6]. Анальный плавник длинный, жировой плавник отсутствует, непарные плавники не имеют шипов.
+
+Окрас в большинстве случаев бурый с оттенками коричнево-зелёного, брюхо белое. В зависимости от мест обитания окрас может меняться от почти чёрного до светло-жёлтого. Иногда встречаются сомы альбиносы.
+
+Обитает в реках и озёрах Европы и Европейской части России, кроме бассейна Ледовитого океана. Обычен в Европе и в бассейне Аральского моря.
+
+Икрометание весной в прибрежносомов в Дунае, в желудках которых находили человеческие тела или их части, при этом, однако, неясно, становились ли погибшие жертвами рыб при жизни, или же последние употребляли в пищу их трупы[8].
+
+В Волге можно встретить особей, масса тела которых достигает около 50 кг[9]. Наиболее крупные сомы (массой более 100 кг) иногда вылавливаются рыбаками в Испании, в р. Эбро, где они были акклиматизированы в середине XX века и быстро размножились[2].
+
+В Латвии официальный рекордом считается сом весом в 84 килограмма, выловленный в Даугаве в 2010 году. В 2018 году, тоже на реке Даугава был пойман сом весом в 100 килограмм и длиной в 2,45 метра, но он по латвийским правилам улов пойманный мережей не может засчитываться. По той же причине не был засчитан и 86 килограммовый сом вытащенный там же в 2017 году.[10]
+
+Во многих регионах распространён способ ловли сома на квок.
+
+Сома издавна употребляли в пищу, преимущественно в жареном виде, хотя В. И. Даль в книге «О поверьях, суевериях и предрассудках русского народа» (1845—1846) утверждал, что крестьяне южнорусских губерний и донские казаки его мясом брезговали, называя «чёртовым конём», используя лишь жирный хвост в качестве начинки для пирогов[11].
+
+Внутривидовая популяционная структура S. glanis оставалась на более низких уровнях в течение эемского межледниковья (130 000 — 115 000 л. н.) по сравнению с ранним голоценом (ок. 11650 — 8000 л. н.). В раннем голоцене повторное заселение Западной Европы S. glanis из восточного рефугиума, предположительно расположенного вокруг Понто-Каспийского региона, усиливало внутривидовую структуру по мере того, как постепенно отступал ледяной щит[12].
+
+Примечанияй зоне среди водной растительности. Самка откладывает икру в гнездо, которое самец охраняет. Половозрелость обычно на пятом году жизни.</string>
+    <string name="text_fish1" translatable="false">рыба тут первый пост 1</string>
+    <string name="text_fish2" translatable="false">рыба тут первый пост 2</string>
+    <string name="text_fish3" translatable="false">рыба тут первый пост 3</string>
+    <string name="text_fish4" translatable="false">рыба тут первый пост 4</string>
+
+    <string name="text_na1" translatable="false">наживка тут пост другой 1</string>
+    <string name="text_na2" translatable="false">наживка тут пост другой 2</string>
+    <string name="text_na3" translatable="false">наживка тут пост другой 3</string>
+    <string name="text_na4" translatable="false">наживка тут пост другой 4</string>
+
+    <string name="text_na_1" translatable="false">aaaaaaaaaaaaaaaaaaaaaaaaa</string>
+    <string name="text_na_2" translatable="false">ffffffffffffffffffffffffffff</string>
+    <string name="text_na_3" translatable="false">hhhhhhhhhhhhhhhhhhhhhhhhhhhh</string>
+    <string name="text_na_4" translatable="false">kkkkkkkkkkkkkkkkkkkkkkkkkkkkk</string>
+
+    <string name="text_na_1_1" translatable="false">alish</string>
+    <string name="text_na_2_2" translatable="false">Maratov</string>
+    <string name="text_na_3_3" translatable="false">Maratovich</string>
+    <string name="text_na_4_4" translatable="false">Marat Elmira</string>
+
+    <string name="text_r_1" translatable="false">Aim</string>
+    <string name="text_r_2" translatable="false">Aiger</string>
+    <string name="text_r_3" translatable="false">Elmira</string>
+    <string name="text_r_4" translatable="false">Marat</string>
+    <string name="text_r_5" translatable="false">Alisher</string>
+
+
+
+    <string name="Button_text" translatable="false">Start</string>
+
+</resources>
